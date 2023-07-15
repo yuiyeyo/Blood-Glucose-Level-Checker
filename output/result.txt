@@ -1,0 +1,18 @@
+****************************************************************
+*            KEEP YOUR BLOOD GLUCOSE LEVEL IN CHECK            *
+****************************************************************
+
+Today's Date: 15/7/2023
+
+**************************PROFILE PAGE**************************
+NAME: yeyo
+SEX ASSIGNED AT BIRTH: FEMALE
+Birthday: 14/5/2002
+AGE: 20 years 14 months 2 days
+
+**********************GLUCOSE LEVEL CHECKER**********************
+POST-MEAL BLOOD GLUCOSE LEVEL
+Blood Glucose Level: 140
+Blood glucose level is in range. Keep it up!
+
+
